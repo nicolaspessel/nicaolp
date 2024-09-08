@@ -2,7 +2,8 @@
 
 ###
 
-<p align="center">I'm continuously learning and still very interested in programming and embedded programming area. Now I'm studying python and for the future I want to experience and study other programming languages. As I'm brazillian, normally my documentations and codes are in portuguese, but feel free to ask with any doubts come up.</p>
+<p align="center">I'm continuously learning and still very interested in programming and embedded programming area. Now I'm studying python and for the future I want to experience and study other programming languages. 
+  As I'm brazillian, normally my documentations and codes are in portuguese, but feel free to ask with any doubts come up.</p>
 
 ###
 
