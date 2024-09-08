@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Estou em constante aprendizado e muito interessado na área de programação e embarcados. Atualmente estou estudando python e desejo estudar outras linguagens de programaçao futuramente.</p>
+<p align="center">I'm continuously learning and still very interested in programming and embedded programming area. Now I'm studying python and for the future I want to experience and study other programming languages.</p>
 
 ###
 
