@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I'm continuously learning and very interested in programming and embedded programming area. Now I'm studying python and for the future I want to experience and study other programming languages. As I'm brazillian, normally my documentations and codes are in portuguese, but feel free to ask if any doubts come up.</p>
+<p align="center">Sou estudante técnico em Eletrônica com experiência nas áreas de programação, embarcados e CLPs. Gosto de estar sempre aprendendo sobre algo novo relacionado às tecnologias em desenvolvimento no mundo e que envolvem as áreas de Eletrônica e Programação.</p>
 
 ###
 
