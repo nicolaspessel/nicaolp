@@ -1,25 +1,6 @@
-<h2 align="center">Olá!<br>Meu nome é Nícolas.</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1000&pause=500&color=A318F7&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Hello+World!;I'm+Nícolas.)](https://git.io/typing-svg)
 
-###
+---
 
-<p align="center">Sou estudante técnico em Eletrônica com experiência nas áreas de programação, embarcados e CLPs. Gosto de estar sempre aprendendo sobre algo novo relacionado às tecnologias em desenvolvimento no mundo e que envolvem as áreas de Eletrônica e Programação.</p>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-
-###
+![lstreb's Stats](https://github-readme-stats.vercel.app/api?username=nicaolp&theme=buefy&show_icons=true&hide_border=true&count_private=true)
+![lstreb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicaolp&theme=buefy&show_icons=true&hide_border=true&layout=compact)
