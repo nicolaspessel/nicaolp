@@ -1,4 +1,4 @@
-<h1 align="center">hello world! I'm Nícolas 👋</h1>
+<h1 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1000&pause=500&color=blue&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Hello+World!;I'm+Nícolas.)](https://git.io/typing-svg)</h1>
 
 ###
 
